@@ -19,7 +19,8 @@ public class ReferenceTypeExample {
 		
 		if(strVar1.equals(strVar2)) {
 			System.out.println("strVar1과 strVar2가 문자열이 같음.");
-
+			//equals:값이 같은지 비교하고싶을때
+			//참조타입의 false = null
 		}
 		System.out.println("=========================================");
 		
