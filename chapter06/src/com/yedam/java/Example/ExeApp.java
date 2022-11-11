@@ -42,7 +42,6 @@ public class ExeApp {
 			}
 		}
 
-	}
 
 	// 메뉴 출력
 	public void showMenu() {
@@ -97,4 +96,5 @@ public class ExeApp {
 		}
 	}
 
+}
 }
